@@ -5,13 +5,15 @@ body {
   
   h2 {
     width: 50%;
-   margin-left: 150px;
-   padding: 5px;}
+   margin-left: 100px;
+   padding: 3px;
+   text-decoration: underline;
+  }
   
   
-  p {
-   margin-left: 150px;
-   padding: 5px;
+  ul {
+   margin-left: 20px;
+   padding: 1px;
   }
   
   img {
